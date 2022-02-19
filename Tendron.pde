@@ -1,6 +1,6 @@
 public void setup()
 {
-  background(0,0,0);
+
   noLoop();
 }
 public void settings() {
