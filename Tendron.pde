@@ -1,11 +1,11 @@
 public void setup()
 {
-
+ size(500,500);
   noLoop();
 }
-public void settings() {
-  size(800,800);
-}
+//public void settings() {
+ 
+//}
 public void draw()
 {
   background(0);
